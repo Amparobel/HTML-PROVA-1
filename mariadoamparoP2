@@ -12,10 +12,10 @@
         <h2><mark style="background-color: blue; color: white;">Formulário</mark></h2>
         <form>
             <label>Nome:</label><br>
-            <input type="text" placeholder="Nome completo do Maria do Amparo"><br><br>
+            <input type="text" placeholder=" Maria do Amparo"><br><br>
 
             <label>Nome da Mãe:</label><br>
-            <input type="text" placeholder="Nome completo da Antonia Maria"><br><br>
+            <input type="text" placeholder="Antonia Maria"><br><br>
 
             <label>Telefone:</label><br>
             <input type="tel" placeholder="(61) 99248-XXXX"><br><br>
